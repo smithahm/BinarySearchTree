@@ -1,7 +1,7 @@
 # BinarySearchTree
 Implemented Binary Search tree using Java with Decorator, strategy, Iterator and Null node pattern
 
-Used strategy pattern to allow you determine how the tree will be ordered when a tree object is created.
+Used strategy pattern to allow to determine how the tree will be ordered when a tree object is created.
 
 Implemented an iterator for BinarySearch Tree class to iterate through binary search tree elements.
 
